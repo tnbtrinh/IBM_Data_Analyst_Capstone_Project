@@ -31,3 +31,6 @@ See the link [here:](https://github.com/tnbtrinh/IBM_Data_Analyst_Capstone_Proje
 - Composition
 - Comparison
 
+## Module 5: Final Presentation
+See the link [here](https://github.com/tnbtrinh/IBM_Data_Analyst_Capstone_Project/tree/main/Module%205_Final%20Presentation)
+

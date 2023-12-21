@@ -19,7 +19,7 @@ See the link [here:](https://github.com/tnbtrinh/IBM_Data_Analyst_Capstone_Proje
 - Normalizing Data
 
 ## Module 3: Exploratory Data Analysis
-See the link [here:](https://github.com/tnbtrinh/IBM_Data_Analyst_Capstone_Project/tree/main/Module%203_Exploratory%20Data%20Analysis%20)
+See the link [here:](https://github.com/tnbtrinh/IBM_Data_Analyst_Capstone_Project/tree/main/Module%203_Exploratory%20Data%20Analysis)
 - Distribution
 - Outliers
 - Correlation
